@@ -1,0 +1,35 @@
+[ This is a comment ]
+
+[
+Comments can be written like this too
+]
+
+
+
+[
+variables decalred by * (create)
+variables referenced by @ (used)
+variabled destroyed by ! (delete)
+
+Math functions
+--------------
+
+addition +
+subtraction -
+
+]
+
+
+
+[Declare variables with values]
+*a = 1;
+*b = 3;
+*c;
+
+[
+point to variables value
+addition and pipe it to variable c
+]
+@a+@b>@c;
+
+
